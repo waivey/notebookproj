@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-notebookproj-dev-111448-authRole",
+            "UnauthRoleArn": "arn:aws:iam::723455457584:role/amplify-notebookproj-dev-111448-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::723455457584:role/amplify-notebookproj-dev-111448-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-notebookproj-dev-111448-deployment",
+            "UnauthRoleName": "amplify-notebookproj-dev-111448-unauthRole",
+            "StackName": "amplify-notebookproj-dev-111448",
+            "StackId": "arn:aws:cloudformation:eu-west-2:723455457584:stack/amplify-notebookproj-dev-111448/3f259910-3788-11ea-b228-02317fefc7aa",
+            "AmplifyAppId": "dk6cvth1gnanw"
+        },
+        "categories": {
+            "auth": {
+                "notebookproj5d266418": {}
+            }
+        }
+    }
+}
